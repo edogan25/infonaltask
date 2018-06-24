@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="InfonalTask:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="InfonalTask-0.war">
+      <element id="artifact" artifact-name="InfonalTask:war exploded" />
+    </root>
+  </artifact>
+</component>
